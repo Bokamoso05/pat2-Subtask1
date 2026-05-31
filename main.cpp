@@ -46,7 +46,7 @@ int main()
     string morse;
     int i;
 
-    cout << "Enter a short English message: ";
+    cout << "Enter a short English message: (enter character from A-Z)";
     getline(cin, message);
 
     cout << "\nLetter Translations:\n";
