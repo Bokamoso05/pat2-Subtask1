@@ -49,6 +49,7 @@ int main()
 
     cout << "Enter a short English message: (enter character from A-Z)";
     getline(cin, message);
+    new line cout << message>>
 
     cout << "\nLetter Translations:\n";
 
