@@ -36,6 +36,7 @@ string getMorse(char ch)
         case 'Y': return "-.--";
         case 'Z': return "--..";
         default: return "";
+        return upper only
     }
 }
 
